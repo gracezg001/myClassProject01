@@ -1,5 +1,0 @@
-package immutable
-
-object Streams{
-
-}
